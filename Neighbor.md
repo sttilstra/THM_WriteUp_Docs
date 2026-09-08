@@ -34,6 +34,7 @@ However, if you look at the URL in the browser window, you will see that the url
 
 <br>
 <br>
+
 <img width="1949" height="505" alt="image" src="https://github.com/user-attachments/assets/2e5ecf5c-f229-495c-9136-eb4456641826" />
 
 <br>
@@ -50,8 +51,7 @@ Change the name of the user in the URL to "admin" and you will be redirected to 
 
 <br>
 <br>
-<br>
-<br>
+
 
 Congratulations! Keep at it!
 
