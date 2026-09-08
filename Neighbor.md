@@ -45,7 +45,7 @@ However, if you look at the URL in the browser window, you will see that the url
 <br>
 
 
-Change the name of the user in the URL to "admin" and you will be redirected to another page that contain the flag.
+Change the name of the user in the URL to "admin" and you will be redirected to another page that contains the flag.
 
 <br>
 <br>
