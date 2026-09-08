@@ -9,6 +9,8 @@ You can access this room at the following link:
 
 
 Per the instructions, open the web browser and navigate to the following URL using the AttackBox: http://10.65.190.62
+
+
 The page loads to a login screen that includes a form which accepts a username and password.
 There is a blurb at the bottom of the form which states Don't have an account? Use the guest account! And directs you to hit (Ctrl+U).
 
