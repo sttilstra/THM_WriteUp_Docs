@@ -21,7 +21,7 @@ There is a blurb at the bottom of the form which states Don't have an account? U
 <br>
 
 Doing this will open up a new tab in the browser which displays the website code. An alternate way of view this is to use the developer tools which can be access by right clicking on the page and selecting inspect.
-This looks like pretty standard HTML. However, if you scan towards the bottom, you can see a comment that contains the credentials guest:guest to use in the login form. It also mentions that the "admin" account is off limits.
+This looks like pretty standard HTML. However, if you scan towards the bottom, you can see a comment that contains the credentials guest:guest to use in the login form. It also mentions that the "admin" user account is off limits.
 
 <br>
 
