@@ -21,7 +21,7 @@ There is a blurb at the bottom of the form which states Don't have an account? U
 <br>
 
 Doing this will open up a new tab in the browser which displays the website code. An alternate way of view this is to use the developer tools which can be access by right clicking on the page and selecting inspect.
-This looks like pretty standard HTML. However, if you scan towards the bottom, you can see a comment that contains the credentials guest:guest to use in the login form. It also mentions that the "admin" user account is off limits.
+This looks like pretty standard HTML. However, if you scan towards the bottom, you can see a comment that contains the credentials guest:guest to use in the login form. It also mentions that the "**admin**" user account is off limits.
 
 <br>
 
@@ -39,6 +39,20 @@ However, if you look at the URL in the browser window, you will see that the url
 
 <img width="1949" height="505" alt="image" src="https://github.com/user-attachments/assets/2e5ecf5c-f229-495c-9136-eb4456641826" />
 
+
+Change the name of the user in the URL to "admin" and you will be redirected to another page that contain the flag.
+
+<br>
+<br>
+
+<img width="1989" height="479" alt="image" src="https://github.com/user-attachments/assets/a13cfa1e-57e1-40dd-9f9e-57ead9c25cfd" />
+
+<br>
+<br>
+
+
+
+<img width="630" height="630" alt="hack the planet" src="https://github.com/user-attachments/assets/1a284b43-b8bb-4560-897e-09e5e1c2d65a" />
 
 
 
