@@ -38,6 +38,8 @@ However, if you look at the URL in the browser window, you will see that the url
 <img width="1949" height="505" alt="image" src="https://github.com/user-attachments/assets/2e5ecf5c-f229-495c-9136-eb4456641826" />
 
 <br>
+<br>
+
 
 Change the name of the user in the URL to "admin" and you will be redirected to another page that contain the flag.
 
@@ -45,6 +47,7 @@ Change the name of the user in the URL to "admin" and you will be redirected to 
 <br>
 
 <img width="1989" height="479" alt="image" src="https://github.com/user-attachments/assets/a13cfa1e-57e1-40dd-9f9e-57ead9c25cfd" />
+
 
 <br>
 <br>
