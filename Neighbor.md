@@ -27,6 +27,19 @@ This looks like pretty standard HTML. However, if you scan towards the bottom, y
 
 <img width="1066" height="641" alt="image" src="https://github.com/user-attachments/assets/97a2ceb6-0429-4c51-9136-091d15d76705" />
 
+<br>
+<br>
+
+After logging in with the guest account credentials, you are directed to a page with a message that states 'Hi, guest. Welcome to our site. Try not to peep your neighbor's profile."
+Using Ctrl=U to view the source code of this page is a good idea, but in this instance it doesn't provide any additional clues.
+However, if you look at the URL in the browser window, you will see that the url ends with "user=guest"
+
+<br>
+<br>
+
+<img width="1949" height="505" alt="image" src="https://github.com/user-attachments/assets/2e5ecf5c-f229-495c-9136-eb4456641826" />
+
+
 
 
 
