@@ -51,9 +51,11 @@ Change the name of the user in the URL to "admin" and you will be redirected to 
 
 <br>
 <br>
+<br>
+<br>
 
 
-Congratulations! Keep at it!
+**Happy Hacking!**
 
 
 <img width="200" height="200" alt="hack the planet" src="https://github.com/user-attachments/assets/1a284b43-b8bb-4560-897e-09e5e1c2d65a" />
