@@ -51,8 +51,7 @@ Change the name of the user in the URL to "admin" and you will be redirected to 
 <br>
 
 
-
-<img width="630" height="630" alt="hack the planet" src="https://github.com/user-attachments/assets/1a284b43-b8bb-4560-897e-09e5e1c2d65a" />
+<img width="100" height="100" alt="hack the planet" src="https://github.com/user-attachments/assets/1a284b43-b8bb-4560-897e-09e5e1c2d65a" />
 
 
 
